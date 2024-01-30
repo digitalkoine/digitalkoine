@@ -9,7 +9,7 @@ I like to code in **R**, **Python** or **Java Script**, and My research is focus
 - Literature and multilingualism
 - Digital methodologies 
 
-📫 You can reach me on Twitter [@vitaligp](https://twitter.com/vitaligp) or you can write me at giovannipietrovitali@gmail.com
+📫 You can reach me on Twitter [@vitaligp](https://twitter.com/vitaligp) or you can write me an <a href="mailto:giovannipietrovitali@gmail.com">email</a>
 
 😄 Pronouns: He/Him
 </div>
