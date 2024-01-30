@@ -3,7 +3,8 @@
 Hi there 👋! 
 <div align="justify">
 My name is <b>Giovanni Pietro Vitali</b> and I'm an <a href="https://www.dypac.uvsq.fr/m-giovanni-vitali">Associate Professor in Digital Humanities</a> at the Université de Versailles Saint Quentin en Yvelines - Université Paris-Saclay .
-<br>
+
+  
 I like to code in **R**, **Python** or **Java Script**, and My research is focused on three main areas:
 - History, conflict and politics
 - Literature and multilingualism
