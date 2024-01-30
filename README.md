@@ -10,6 +10,8 @@ I like to code in **R**, **Python** or **Java Script**, and My research is focus
 - Digital methodologies 
 
 📫 You can reach me on Twitter [@vitaligp](https://twitter.com/vitaligp) or you can write me at giovannipietrovitali@gmail.com
+
+😄 Pronouns: He/Him
 </div>
 
 <!--
