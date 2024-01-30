@@ -1,7 +1,7 @@
 ## About me
 
 Hi there 👋! 
-
+<div align="justify">
 My name is *Giovanni Pietro Vitali* and I'm an Associate Professor in Digital Humanities at the Université de Versailles Saint Quentin en Yvelines - Université Paris-Saclay ([profile](https://www.dypac.uvsq.fr/m-giovanni-vitali/)).
 
 I like to code in **R**, **Python** or **Java Script**, and My research is focused on three main areas:
@@ -10,7 +10,7 @@ I like to code in **R**, **Python** or **Java Script**, and My research is focus
 - Digital methodologies 
 
 📫 You can reach me on Twitter [@vitaligp](https://twitter.com/vitaligp) or you can write me at giovannipietrovitali@gmail.com
-
+</div>
 
 <!--
 **digitalkoine/digitalkoine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
