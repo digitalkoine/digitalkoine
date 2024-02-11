@@ -10,7 +10,7 @@ I like to code in **R**, **Python** or **Java Script**, and my research is focus
 - Literature and multilingualism
 - Digital methodologies 
 
-📫 You can reach me on Twitter [@vitaligp](https://twitter.com/vitaligp), Bluesky [@vitaligp.bsky.social](https://bsky.app/profile/vitaligp.bsky.social) or you can write me an <a href="mailto:giovannipietrovitali@gmail.com">email</a>
+📫 You can reach me on Twitter [[@vitaligp](https://twitter.com/vitaligp)], Bluesky [@vitaligp.bsky.social](https://bsky.app/profile/vitaligp.bsky.social) or you can write me an <a href="mailto:giovannipietrovitali@gmail.com">email</a>
 
 😄 Pronouns: He/Him
 </div>
