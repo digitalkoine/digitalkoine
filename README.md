@@ -2,7 +2,7 @@
 
 Hi there 👋! 
 <div align="justify">
-My name is <b>Giovanni Pietro Vitali</b> and I'm an <a href="https://www.dypac.uvsq.fr/m-giovanni-vitali">Associate Professor in Digital Humanities</a> at the Université de Versailles Saint Quentin en Yvelines - Université Paris-Saclay .
+My name is <b>Giovanni Pietro Vitali</b> and I'm an <a href="https://www.dypac.uvsq.fr/m-giovanni-vitali">Associate Professor in Cultural History and Digital Humanities</a> at the Université de Versailles Saint Quentin en Yvelines - Université Paris-Saclay .
 
   
 I like to code in **R**, **Python** or **Java Script**, and my research is focused on three main areas:
